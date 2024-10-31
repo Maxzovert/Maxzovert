@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🔭 I’m currently working on [NoteBook Application](https://github.com/Maxzovert/mynotebook.git)
+- 🔭 I’m currently working on [Notes Application](https://github.com/Maxzovert/Snapnotes.git)
 
-- 🌱 I’m currently learning **Reacj.Js**
+- 🌱 I’m currently learning **React.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maxzovert](https://github.com/Maxzovert)
 
