@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🔭 I’m currently working on [LIT-CHAT](https://github.com/Maxzovert/LIT-CHAT.git)
+- 🔭 I’m currently working on [Thryve](https://github.com/Maxzovert/thryve.git)
 
 - 🌱 I’m currently learning **React.Js**
 
