@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **95abdullah99@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1TWiCKprbteiwVm0obu_vl2HNThZyRTSX/view?usp=drive_link)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1xvZb9fClL9nB7r32PCBm7q4CHZbHAV86/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
