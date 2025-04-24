@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
-- 🔭 I’m currently working on [Thryve](https://github.com/Maxzovert/thryve.git)
+- 🔭 I’m currently working on [Core-Rush](https://github.com/Maxzovert/core-rush.git)
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **Next.Js**
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Maxzovert)
 
 - 📫 How to reach me **95abdullah99@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1xvZb9fClL9nB7r32PCBm7q4CHZbHAV86/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1petYSMUllhLnBQuXZWZKeqZGsuqslQQr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
