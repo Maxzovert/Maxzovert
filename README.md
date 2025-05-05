@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-- 🔭 I’m currently working on [Core-Rush](https://github.com/Maxzovert/core-rush.git)
+- 🔭 I’m currently working on [Gitwork](https://github.com/Maxzovert/gitwork.git)
 
 - 🌱 I’m currently learning **Next.Js**
 
