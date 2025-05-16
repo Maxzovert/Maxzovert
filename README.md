@@ -54,6 +54,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxzovert&show_icons=true&locale=en&layout=compact" alt="maxzovert" /></p>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxzovert&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxzovert&" alt="maxzovert" /></p>
 
