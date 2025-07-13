@@ -11,7 +11,7 @@
 - 🔭 Currently working on: [**Write-x**](https://github.com/Maxzovert/writex.git)
 - 🌱 Learning: **Next.js**, **Vercel deployments**, and **RAG pipelines**
 - 👨‍💻 All projects: [GitHub Profile »](https://github.com/Maxzovert)
-- 📄 Resume: [Click to View](https://drive.google.com/file/d/1Rn1Nbqk2brBKX0tMW__SmfL1YCw3huvx/view?usp=drive_link)
+- 📄 Resume: [Click to View](https://drive.google.com/file/d/1ARjeA8lqcRcxI4UTUVrCZP4c9rRhJ63Y/view?usp=drive_link)
 - 📫 Reach me: **95abdullah99@gmail.com**
 
 ---
