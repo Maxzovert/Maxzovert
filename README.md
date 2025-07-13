@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Projects & Learning
-- 🔭 Currently working on: [**GitWork**](https://github.com/Maxzovert/gitwork.git) — GitHub Productivity with AI (RAG-powered)
+- 🔭 Currently working on: [**Write-x**](https://github.com/Maxzovert/writex.git)
 - 🌱 Learning: **Next.js**, **Vercel deployments**, and **RAG pipelines**
 - 👨‍💻 All projects: [GitHub Profile »](https://github.com/Maxzovert)
 - 📄 Resume: [Click to View](https://drive.google.com/file/d/1Rn1Nbqk2brBKX0tMW__SmfL1YCw3huvx/view?usp=drive_link)
