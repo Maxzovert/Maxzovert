@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+%7C+Next.js;Clean+UI+%26+Scalable+Code;Always+learning+something+new+💡" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/28/8b/79/288b79a02d6061ff9b66a2e1c9b63d41.gif" width="900" height="300"/>
+</p>
+
 ---
 
 ### 🚀 Projects & Learning
