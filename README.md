@@ -15,7 +15,7 @@
 - 🔭 Currently working on: [**Write-x**](https://github.com/Maxzovert/writex.git)
 - 🌱 Learning: **Next.js**, **GEN AI**, and **RAG pipelines**
 - 👨‍💻 All projects: [Portfolio »](https://portfolio-theta-neon-53.vercel.app/)
-- 📄 Resume: [Click to View](https://drive.google.com/file/d/1rPQgMIv4NFDqKQFEkuwgdvB7pvLut8Xq/view?usp=sharing)
+- 📄 Resume: [Click to View](https://drive.google.com/file/d/1Jl8dOEWokDDypuKSOOlqsrfqgoth10Rd/view?usp=sharing)
 - 📫 Reach me: **95abdullah99@gmail.com**
 
 ---
