@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /><br>
 
 #### ⚙️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,git" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,postman,git,github" /><br>
 
 </div>
 
