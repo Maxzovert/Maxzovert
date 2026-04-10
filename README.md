@@ -38,6 +38,9 @@
 #### ⚙️ Backend & Tools
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,postman,git,github,docker" /><br>
 
+#### 🚀 Deployment & Cloud
+<img src="https://skillicons.dev/icons?i=vercel,aws,cloudflare,render" /><br>
+
 </div>
 
 ---
