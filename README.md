@@ -36,10 +36,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /><br>
 
 #### ⚙️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,postman,git,github,docker" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,postman,git,github" /><br>
 
 #### 🚀 Deployment & Cloud
-<img src="https://skillicons.dev/icons?i=vercel,aws,cloudflare,render" /><br>
+<img src="https://skillicons.dev/icons?i=vercel,aws,cloudflare,docker" /><br>
 
 </div>
 
