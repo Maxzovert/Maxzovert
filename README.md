@@ -39,8 +39,10 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,postman,git,github" /><br>
 
 #### 🚀 Deployment & Cloud
-<img src="https://skillicons.dev/icons?i=vercel,aws,cloudflare,docker,nginx" /><br>
+<img src="https://skillicons.dev/icons?i=vercel,supabase,aws,cloudflare,docker,nginx,prisma" /><br>
 
+#### 🚀 Tools
+<img src="https://skillicons.dev/icons?i=vscode,npm,vite,githubactions," /><br>
 </div>
 
 ---
